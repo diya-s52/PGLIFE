@@ -15,4 +15,13 @@ APIs: Google Maps API for location services
 
 <h1>Screenshots of Project</h1>
 <img src="Screenshot (25).png">
+<img src="Screenshot (26).png">
+<img src="Screenshot (27).png">
+<img src="Screenshot (28).png">
+<img src="Screenshot (29).png">
+<img src="Screenshot (30).png">
+<img src="Screenshot (31).png">
+<img src="Screenshot (32).png">
+<img src="Screenshot (33).png">
+<img src="Screenshot (34).png">
 
