@@ -13,3 +13,6 @@ Backend: Node.js, Express
 Database: MongoDB, MySql
 APIs: Google Maps API for location services
 
+<h1>Screenshots of Project</h1>
+<img src="Screenshot (25).png">
+
